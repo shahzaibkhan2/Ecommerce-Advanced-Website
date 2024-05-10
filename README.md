@@ -1,4 +1,4 @@
-![HOME PAGE](src/assets/youtube_clone_landing_page.jpg)
+![HOME PAGE](src/assets/my_ecommerce_website_landing_page.jpg)
 # Ecommerce Advanced Website Developed with React + Vite
 
 I Built a fully functional, responsive and beautiful Ecommerce Website using JavaScript, HTML and CSS, Git and 
