@@ -1,8 +1,12 @@
-# React + Vite
+![HOME PAGE](src/assets/youtube_clone_landing_page.jpg)
+# Ecommerce Advanced Website Developed with React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I Built a fully functional, responsive and beautiful Ecommerce Website using JavaScript, HTML and CSS, Git and 
+Github, Redux Toolkit and ECMAScript on ReactJs. I have used Firebase as a main database and server for authentications and data storage using advanced JavaScript async 
+await methods and ECMA Script methods. This website is available on my Github ID. I have also hosted 
+this website on Vercel at this address https://shahzaib-you-tube-clone.vercel.app to make it 
+available to the public
 
-Currently, two official plugins are available:
+Currently, available on:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [https://shahzaib-you-tube-clone.vercel.app](https://shahzaib-you-tube-clone.vercel.app)
